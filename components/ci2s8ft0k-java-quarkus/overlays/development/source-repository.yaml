@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ci2s8ft0k-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/ci2s8ft0k-java-quarkus
